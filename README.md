@@ -2,7 +2,7 @@ Integrantes:
 
 Giovanna Batista – RA: 1991571
 Marcelo Amorim – RA: 1997218
-Analy Rodrigues – RA: 1986006
+Alani Rodrigues – RA: 1986006
 Sistema de Campeonato de Tênis
 Nosso sistema tem como objetivo simular um campeonato de Tênis, permitindo o cadastro de times e jogadores, a realização dos confrontos com pontuação, e por fim, determinar o time vencedor com base nos resultados obtidos durante o torneio.
 
